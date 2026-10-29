@@ -1,0 +1,6 @@
+{
+  "name": "Intelysol HCM Mobile",
+  "description": "Enterprise mobile application for Intelysol HCM SaaS platform with GPS attendance, leave management, payslips, and employee self-service.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

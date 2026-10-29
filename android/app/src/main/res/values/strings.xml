@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Intelysol HCM</string>
+    <string name="title_activity_main">Intelysol HCM</string>
+    <string name="package_name">com.intelysol.hcm</string>
+    <string name="custom_url_scheme">com.intelysol.hcm</string>
+</resources>

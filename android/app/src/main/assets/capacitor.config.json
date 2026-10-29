@@ -1,0 +1,13 @@
+{
+	"appId": "com.intelysol.hcm",
+	"appName": "Intelysol HCM",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https",
+		"cleartext": false
+	},
+	"plugins": {
+		"Geolocation": {},
+		"App": {}
+	}
+}
